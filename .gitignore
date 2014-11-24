@@ -1,0 +1,7 @@
+.bundle
+.idea
+.todo
+.DS_Store
+*.swp
+*.swo
+*.swn
